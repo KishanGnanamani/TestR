@@ -23,4 +23,4 @@ Some of these words *are emphasized*
 
 Some of these words **are double emphasized**
 
-this is an [example link] www.google.com
+this is a link www.google.com
