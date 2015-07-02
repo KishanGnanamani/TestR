@@ -10,4 +10,5 @@ This is a Test Repo
 Hi There - I am learning MarkDown Syntax!!!
 
 Some of these words *are emphasized*
+
 Some of these words **are double emphasized**
